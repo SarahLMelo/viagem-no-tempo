@@ -1,4 +1,4 @@
--- Projetar todos os mentorandos os quais trabalham nos mesmo setor que seu mentor
+-- Projetar As missões que um funcionario que gerencia um setor participou
 SELECT *
 FROM MISSAO M
 WHERE M.CODIGO IN(
